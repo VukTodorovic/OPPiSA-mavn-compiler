@@ -1,6 +1,6 @@
 # OPPiSA-mavn-compiler
 
-## Description on english
+## Description in English
 
 Project for university featuring MAVN compiler written in C/C++ with following steps:
 
