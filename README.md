@@ -2,7 +2,17 @@
 
 ## Description on english
 
-Project for university featuring MAVN compiler written in C/C++ with lexical analysis, syntax analysis, generating instructions, intermediate code generation, liveness analysis, resource allocation and final code generation
+Project for university featuring MAVN compiler written in C/C++ with following steps:
+
+```
+● lexical analysis
+● syntax analysis
+● generating instructions
+● intermediate code generation
+● liveness analysis
+● resource allocation
+● final code generation
+```
 
 ## Documentation
 
